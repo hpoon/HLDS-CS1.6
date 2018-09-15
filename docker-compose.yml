@@ -20,5 +20,5 @@ services:
     environment:
       - RCON_PASSWORD=""
       - SV_PASSWORD=""
-      - MAXPLAYERS="12"
-      - MAPNAME="fy_pool_day"
+      - MAXPLAYERS="24"
+      - MAPNAME="de_dust2"
