@@ -7,11 +7,12 @@ cs_assault
 de_aztec
 aim_map_usp
 de_inferno
+awp_map
 de_dust
-scoutzknivez
 fy_snow
 de_dust2
 aim_map
 cs_deagle5
 de_rats
 fy_iceworld2k
+awp_india
