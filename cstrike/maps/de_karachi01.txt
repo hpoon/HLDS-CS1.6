@@ -1,0 +1,29 @@
+DE_KARACHI01 
+
+Map by CompoSITe (Geoffrey Smith)
+rdf_composite@yahoo.com
+comopsite@kortclan.com
+
+Textures by: CompoSITe, used some from Mataleone, 3DMike, 
+	Blazzer, FilthyPanda, Remedy, Illa, JoeSmoe, Madcross+Crinity DoenerKing...
+
+Truck and (US) VW golf by: GinsengAvenger
+
+Welcome to the deadly streets of Karachi, Pakistan. 
+
+Intelligence reports have been mounting recently saying that
+a terrorist strike is imminent. There appears to be an 
+arms cache in the west of the city. This looks to be their main target.
+We cannot allow them to gain control of these arms. 
+The terrorist faction's MO in the past has been
+to create a diversion elsewhere in the city, often hitting public targets. 
+
+CTs must focus on the arms cache, but are obliged to protect the locals
+if possible. We have a CT unit on standby a few blocks from the arms cache. 
+Once the word is given they will proceed with Operation-Dustkiller.
+
+Terrorists: plant the bomb by the porch or at the bus.
+
+Counter Terrorists: defuse the bomb and/or neutralize the terrorists 
+- with extreme prejudice.
+

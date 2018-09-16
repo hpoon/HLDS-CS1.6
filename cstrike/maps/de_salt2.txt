@@ -1,0 +1,18 @@
+Salt 2 - Bomb/Defuse
+Map and textures by SuperJer
+www.superjer.com
+
+This map was designed for 5v5 matches,
+but will support up to 32 players.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing either of the two bomb
+targets. Team members must defuse the
+bomb if it is planted.
+
+Terrorists: The Terrorist carrying the
+C4 must successfully detonate the bomb
+at one of the two targets, or
+eliminate the enemy team.
+
+(Press FIRE to continue)

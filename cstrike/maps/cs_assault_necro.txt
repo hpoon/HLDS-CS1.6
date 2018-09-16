@@ -1,0 +1,18 @@
+cs_assault_necro
+
+Started with a map converted from the original bsp.
+Changes done by Necronomicon.
+
+Special thanks to...
+
+ManuaL
+iannotta
+Prophet
+n3rd
+
+...for testing!
+
+
+Feedback would be appreciated! :)
+
+clubnecro@btopenworld.com

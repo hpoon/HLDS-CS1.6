@@ -1,0 +1,9 @@
+de_cpl_mill - Bomb Defusal
+by: [DNv]Cross
+http://dnvcross.tk
+
+mill is a remake of the original de_cpl_mill for counter-strike
+by n@arby, concept by Frank Nuccio
+
+Thanks to CAL|Boeckelmann, CAL|Hammett, CAL|Crowley,
+and Frank Nuccio for helping create this map.

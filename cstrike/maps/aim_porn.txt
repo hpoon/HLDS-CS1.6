@@ -1,0 +1,7 @@
+Map by r8dix
+
+based on "aim_aggro" by Grasyl
+
+Counter-Terrorist: Shoot the other team
+
+Terrorist: Shoot the other team

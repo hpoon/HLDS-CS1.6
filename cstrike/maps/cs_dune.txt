@@ -1,0 +1,25 @@
+cs_dune - Hostage Rescue
+Mapping & Concept by:
+Waldo (burkenholt@home.com) 
+Lestat (lestat@counter-strike.net)
+
+Additional tex & goodies by:
+Zaphod Beeblebrox, jOeSmOe, and
+Agent Orange
+
+Briefing:
+Terrorist desert training grounds
+hidden somewhere in vast dunes.  Rumors
+exist of captured Chinese rocket.
+
+Counter-Terrorists: Locate and 
+rescue the U.N. hostages inside 
+the terrorist base.  Utilize
+vehicles to best advantage. 
+
+Terrorists: Prevent the Counter-Terrorists
+from rescuing the Hostages.  Utilize
+motorcycle & truck plus underground
+to best advantage.
+
+(Press FIRE to continue)

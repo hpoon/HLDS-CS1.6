@@ -1,0 +1,18 @@
+de_industro v. 1.03 Full - Bomb/Defuse
+by Sh@h  (http://shah.cs-mapping.com.ua)
+textures: Macman, Sh@h, Valve
+brainchild: n1ck, Sh@h
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the chemical 
+weapon stashes. 
+
+Other Notes: There are 2 stashes of
+weapon crates in this mission. 
+
+(Press FIRE to continue)

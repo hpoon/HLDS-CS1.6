@@ -1,0 +1,20 @@
+Dust4ever - Bomb/Defuse - A tribute to Dust and DaveJ
+by Lupus (lupus@snuttis.com).
+Textures by MacMan (MacManInfi@aol.com).
+Allso a big thanx to DaveJ (dv@btinternet.com).
+His map de_dust has been a huge inspiration (well, duh!).
+
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the chemical 
+weapon stashes. 
+
+Other Notes: There are 2 chemical 
+weapon stashes in the mission. 
+
+(Pres

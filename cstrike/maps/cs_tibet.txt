@@ -1,0 +1,15 @@
+cs_tibet - Hostage Rescue
+by [KT]ak.automat.
+   [KT]xeno.form.
+all additional textures by [KT].unlimited.
+
+Counter-Terrorists: Infiltrate the stronghold,
+rescue the 3 hostages, or take out the
+terrorists without jeopardizing the hostages
+lives.
+
+Terrorists: Prevent the Counter-
+Terrorists from rescuing
+the hostages.
+
+(Press FIRE to continue)

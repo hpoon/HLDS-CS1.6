@@ -1,0 +1,41 @@
+Map Created by MaMuS
+----------------
+
+A terorrist group is preparing to invade the Hurgland Natural park.
+Their intention is to destroy the ancient fortress or the great
+lighthouse using C4 explosives, in retaliation to Lord Hurg beco-
+ming the new president. 
+
+The counter-terrorist team is en route to intercept the terrorists
+and eliminate the threat. 
+
+In this map you will be presnted with a large amount of land
+ - with exotic terrain and beautiful beaches. Watch out for enemies
+in all directions - it's quite easy to get hit by an AWP shot! 
+
+Plan your tactics well, this map was designed to put the player
+in some awkware situations. This is not a normal map - so spend
+some time getting used to it. 
+
+OBS1: Type "r_detailtextures 1" to activate the detail textures! 
+OBS2: Feel Free to find the easter eggs! They're very cool.
+
+----------------
+Distribute as you wish, but never pretend you are the author
+----------------
+Author's Lists: (from thing's i've not developed)
+
+TFC             tfc.wad tfc2.wad & flmgrexp.wav
+Doenerking Web  models from the "models/doenerking/" dir
+CS              some sounds from official maps
+Valve           the excellent Half-Life!
+ID Software     the Quake engine :P
+----------------
+You can find me in:
+http://www.leveldesign.com.br
+http://www.labs.brlogic.com
+http://www.nadaonline.net
+adriano_lol@gmail.com
+177024717
+----------------
+Just Play and make fun!

@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>FSPHost.com download page</title>
+<style>
+<!--
+body {  COLOR: navy; FONT-FAMILY: Verdana, Arial, sans-serif; background-color: #FFFFFF; SCROLLBAR-FACE-COLOR: #C8C8C8; SCROLLBAR-HIGHLIGHT-COLOR: #C8C8C8;
+}
+#create { FONT-SIZE: 13px; font-family: Verdana, Arial, sans-serif; background-color: #F7F7F7; color: navy; border: solid; border-color: #000000; border-width: 1px; font-weight: bold; }
+a:link { COLOR: navy; TEXT-DECORATION: underline; font-weight: bold; }
+a:visited { COLOR: navy; TEXT-DECORATION: underline; font-weight: bold;  }
+a:hover { COLOR: navy; TEXT-DECORATION: underline; ; font-weight: bold;  }
+a:active { COLOR: navy; TEXT-DECORATION: none; font-weight: bold;  }
+-->
+</style>
+</head>
+<body>
+<h3>FSPHost.com download page</h3><br>
+<font size="2">- you have requested to download the file <b>"customserversownz.wav"</b> -<br>
+Please click "download" below to download the file, thank you!<br>
+<b><a href="http://fsphost.com">fsphost.com offers 250MB free webspace, try it!</a><br></font><br></b>
+
+<script language='JavaScript' type='text/javascript' src='http://fsphost.com/pan/adx.js'></script>
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://fsphost.com/pan/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:9");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://fsphost.com/pan/adclick.php?n=a29b154c' target='_blank'><img src='http://fsphost.com/pan/adview.php?what=zone:9&amp;n=a29b154c' border='0' alt=''></a></noscript>
+<br><br>
+
+
+<div style="width: 320px; font-size: 10pt">
+<script language='JavaScript' type='text/javascript' src='http://fsphost.com/pan/adx.js'></script>
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://fsphost.com/pan/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:10");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://fsphost.com/pan/adclick.php?n=ae957b13' target='_blank'><img src='http://fsphost.com/pan/adview.php?what=zone:10&amp;n=ae957b13' border='0' alt=''></a></noscript>
+</div>
+<font size="2">
+<br><form action="" method="Post">
+<input type=hidden name="download" value="ok">
+<input type=submit name="Download" value="Download 'customserversownz.wav'" id="create">
+</form>
+<br><br>
+<font size="2">Please report abuse <a href="http://fsphost.com/index.php?l=abuse" target="_blank">here</a>, thank you!<br><br>
+<font size="1">this service is powered by <a href="http://fsphost.com">fsphost.com</a>.
+        

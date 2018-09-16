@@ -1,0 +1,23 @@
+de_sunny (final) - Bomb/Defuse by *aAa* Coucouoeuf
+Please read de_sunny_readme.txt for further information :)
+____________________________________
+www.Ccf-mapping.info
+Coucouoeuf@caramail.com
+www.team-aAa.com
+query [aAa]Ccf on #aaa @ irc.quakenet.org
+
+____________________________________
+Map made for the Electronic Sports League.
+www.ESL-europe.net
+
+____________________________________
+Counter-Terrorists: Prevent Terrorists
+from bombing targeted areas. Team
+members must defuse any bombs that
+threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets. 
+
+
+[Press FIRE to continue]

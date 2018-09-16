@@ -1,0 +1,20 @@
+1337 Assault (v1.0) - Hostage Rescue
+---------------------------------
+Edited by: Zyndrome (gamerschoice@hotmail.com)
+Original (cs_assault) by: CryptR (lmuur@dlc.fi)
+---------------------------------
+
+Terrorists:
+Kill the CTs! Watch out for
+snipers and incoming CTs from
+the ceiling!
+
+Counter-Terrorists:
+Rescue the hostages! (duh!)
+
+
+Additional Info:
+- Cameras has been removed.
+- New ladders and routes.
+- Some wierd looking spots.
+-----------------------------7d624313c202ee--

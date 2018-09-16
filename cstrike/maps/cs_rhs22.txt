@@ -1,0 +1,38 @@
+Rhinehold Street 22
+Hostage Rescue at Haunted House
+
+by Toni Hiltunen aka. tnoh
+(toni@antiteatteri.net)
+www.planethalflife.com/hiltunen
+www.antiteatteri.net
+
+Textures:
+-Xatrix/Interplay (RR game) 
+-Day Of Defeat mod
+-Remedy (Max Payne game)
+-Macman (chateau.wad)
+-ToniH
+
+Models:
+-Dogged (http://www.poksi.net/~dogged/)
+-The Doener King
+-Xenon Design (xenon)
+-Hessi
+-Day Of Defeat mod
+-de_piranesi (tree models)
+-Vampire Slayer mod (ghost model)
+
+Piano music by Kristian Hirvela
+---
+Counter-Terrorists: Enter the haunted
+house and rescue the corpses so their
+souls will be free and the house is
+clean!
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the corpses.
+
+Other Notes: There are 4 hostages in 
+this mission.
+
+(Press FIRE to continue)

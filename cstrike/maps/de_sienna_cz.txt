@@ -1,0 +1,18 @@
+Sienna - Bomb/Defuse
+
+Background: The town of Sienna is under
+high alert following new information
+gathered by the intelligence services.
+Access in and out of the town has been 
+blocked to prevent a terrorist attack.
+
+Terrorists: Identify the two vulnerable
+points of entry and gain access by 
+detonating explosives near them.
+
+Counter-Terrorists:  Prevent the
+Terrorists from destroying the gates
+and entering the town.
+
+Other Notes: There are 2 entrances 
+the Terrorists may choose to attack.

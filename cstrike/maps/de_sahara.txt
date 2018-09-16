@@ -1,0 +1,18 @@
+Sahara - Bomb/Defuse
+by Uwe "Boblem" Lange (boblem@web.de)
+www.boblem.cscentral.com
+Textures by: Warbeast, Blazeeer, Madness
+Stroggos, Relic25, Hostile Killer
+
+Counter-Terrorists: Prevent Terrorists
+from bombing antiaircrafts.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the antiaircraft. 
+
+Other Notes: There are 2 antiaircrafts
+in the mission. 
+
+(Press FIRE to continue)

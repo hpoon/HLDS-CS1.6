@@ -1,0 +1,12 @@
+de_airninja by tommy of escondido
+
+Ninja have been spotted planning an attack on the secret 
+gov't factory.  An air-strike has been called in, and is 
+due to arrive within minutes.  Will the ninjas get off 
+the cliff in time?  Can the CTs defend the factory?
+
+Counter-Terrorists: Defend the factory, or kill all Terrorists.
+Terrorists: Blow up the factory [2 targets] or kill all CounterTerrorists.
+
+Other note: 5 vehicles, 2 ground and 3 air.
+(Press FIRE to continue)

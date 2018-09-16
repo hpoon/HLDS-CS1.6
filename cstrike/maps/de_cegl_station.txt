@@ -1,0 +1,21 @@
+cegl_station - Bomb Defusal
+by Bryant "samples" Dugan
+http://www.samplesmappingcollective.com
+http://www.infinityesports.com
+#smc irc.gamesurge.net
+
+made for Ciraco Electronic Gaming League
+http://www.cegl.net
+#cegl irc.gamesurge.net
+
+Counter-Terrorists: Prevent the terrorists 
+from planting any explosive devices in the 
+storage areas of the abandoned station. Defuse
+any explosives that have been planted.
+
+Terrorists: Destroy the storage areas in the station.
+
+Other Notes: There are 2 bomb targets
+in the mission.
+
+(Press FIRE to continue)

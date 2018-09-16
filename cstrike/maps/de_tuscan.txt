@@ -1,0 +1,15 @@
+tuscan - Defusion
+by Colin "Brute" Volrath 
+http://www.brutesmaps.com
+Thanks to http://www.cevolved.com
+
+Counter-Terrorists: Prevent the Terrorists
+from bombing the two plazas. Team members
+must defuse any bombs in the area.
+
+Terrorists: Destroy the local plazas.
+
+Other Notes: There are 2 targets 
+in this mission.
+
+(Press FIRE to continue)

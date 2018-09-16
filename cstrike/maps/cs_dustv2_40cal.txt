@@ -1,0 +1,18 @@
+cs_dustv2_40cal:
+by Boka 
+Boka_sux2@hotmail.com
+This map is a remake of de_dust_boka (made by DaveJ and Macman!!)
+//Edited By RAA. 
+
+
+Counter-Terrorists:  Rescue the hostages or eliminate
+the Terrorists.
+
+Terrorists:  Prevent the Counter-Terrorists
+from rescuing the Hostages or eliminate
+the Counter-Terrorists.
+
+
+
+
+Press FIRE to continue.

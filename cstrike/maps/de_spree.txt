@@ -1,0 +1,17 @@
+Spree - Bomb/Defuse
+by Pinkbunny (pinkbunny@radoz.de)
+
+Counter-Terrorists: Prevent Terrorists from
+bringing havoc to the European chemical estate 
+or bombing the truck.  This would poison
+a large area.  You must defuse any bombs
+that threaten those areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets.  Watch
+out for the night-watchman!
+
+Other Notes: There are 2 targets 
+in this mission. 
+
+(Press FIRE to continue)

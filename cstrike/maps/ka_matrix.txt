@@ -1,0 +1,15 @@
+-- ka_matrix for Knife Arena --
+ by Lacos (lacos@tdcom.net)
+--- --- --- --- --- --- --- ---
+My version of the the famous
+area from the Matrix. Includes
+breakable pillars and the
+original background music ;)
+Designed for 1 vs 1 to 5 vs 5
+knife wars.
+--- --- --- --- --- --- --- ---
+The background music is a clip
+from Spybreak by Propellerheads
+and it is copyrighted by its
+owners.
+--- --- --- --- --- --- --- ---

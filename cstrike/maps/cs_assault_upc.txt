@@ -1,0 +1,18 @@
+Assault UPC-Version - Hostage Rescue
+by [UPC]PsykomAn
+
+Counter-Terrorists: Rescue the hostages. 
+Take out the Terrorists without jeopardizing 
+the hostages. 
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages. 
+
+Other Notes: There are 4 hostages in 
+the mission. Rescue them!
+
+
+thanx to the best, real cs_assault, 
+the original version by   CryptR
+
+thanx to all used textures

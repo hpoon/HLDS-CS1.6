@@ -1,0 +1,20 @@
+Montaz-Bomb/Defuse
+
+By OrnateBaboon (ornatebaboon@ornatebaboon.com) 
+Textures by Valve, Skybex, OrnateBaboon and DVD
+Models by Valve
+WAV's by OrnateBaboon and Mataleone
+
+Thanks to Skybex
+
+
+
+
+Terrorists: Blow up the designated areas. 
+
+Counter Terrorists: Prevent the Terrorists
+from completing their mission.
+
+There are two bombsites on this map.
+
+(Press FIRE to continue)

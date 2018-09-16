@@ -1,0 +1,17 @@
+forge - Defusion
+by Colin "Brute" Volrath 
+http://www.brutesmaps.com
+
+Thanks to http://www.cevolved.com
+
+Counter-Terrorists: Prevent the Terrorists
+from bombing industrial shipping yards.
+Team members must defuse any bombs that
+threaten targeted areas.
+
+Terrorists: Destroy the shipping locations.
+
+Other Notes: There are 2 targets 
+in this mission.
+
+(Press FIRE to continue)

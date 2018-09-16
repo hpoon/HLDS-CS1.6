@@ -1,0 +1,14 @@
+Aim_ac_deagle - aim/skill
+Map by OAF Team | JirA
+
+CT Force:
+Eliminate all of the Terrorists.
+
+T Force:
+Eliminate all of the Counter-terrorists.
+
+Discription:
+Remake of aim_map_usp
+
+Other notes:
+Nothing.

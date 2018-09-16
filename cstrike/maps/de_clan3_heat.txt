@@ -1,0 +1,16 @@
+de_clan3_heat - Defusion
+by 2d-chris (mr^Dronegirl) (chriskay15@hotmail.com)
+
+Texture builds by Valve software
+
+Terrorist are attempting to blow up two locations 
+
+Counter-Terrorists: Prevent the terrorists
+from destroying the locations.
+
+Terrorists: Destroy the two locations.
+
+Other Notes: There are 2 bomb sites in this 
+mission. 
+
+(Press FIRE to continue)
