@@ -5,6 +5,13 @@ aim_ak-colt
 fy_iceworld
 cs_assault
 de_aztec
+aim_map_usp
 de_inferno
 de_dust
+scoutzknivez
+fy_snow
 de_dust2
+aim_map
+cs_deagle5
+de_rats
+fy_iceworld2k
