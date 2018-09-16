@@ -13,7 +13,7 @@ services:
       - ./cstrike/mapcycle.txt:/home/steam/hlds/cstrike/mapcycle.txt:ro
       - ./cstrike/server.cfg:/home/steam/hlds/cstrike/server.cfg:ro
       - ./cstrike/motd.html:/home/steam/hlds/cstrike/motd.html:ro
-      - ./cstrike/maps:/home/steam/hlds/cstrike_downloads/maps:ro
+      - ./cstrike/maps:/home/steam/hlds/cstrike_downloads:ro
     ports:
       - "27015:27015"
       - "27015:27015/udp"

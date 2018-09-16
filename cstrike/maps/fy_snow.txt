@@ -1,0 +1,11 @@
+Snow - Death Match
+Map by Punkki
+
+Terrorist: Kill CT
+
+Counter-Terrorist: Kill T
+
+Other Notes: Round does not end
+until one team has been eliminated!
+
+(Press FIRE to continue)

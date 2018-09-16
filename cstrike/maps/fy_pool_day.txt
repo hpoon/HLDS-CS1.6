@@ -1,11 +1,12 @@
-Blast 'em All.
+Squall's FY_Pool_Day
+------------------------
 
-Map by Squall
-steveas@goshen.edu
-Get my other maps:
+Have Fun and Check out FY_Pool_Night
+and my other maps:
+
+de_walmart_final
+de_dorms
+de_scootathon2k
+cs_store
 
 www.goshen.edu/~steveas/maps
-
-
-
-

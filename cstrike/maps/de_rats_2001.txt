@@ -1,0 +1,15 @@
+Rats_2001 - Bomb/Defuse
+by Chris Spain (chris@cyber-rat.com)
+Playtesting by [SKR8]Gunslinger
+
+Counter-Terrorists:
+Prevent the terrorists from blowing-
+up the toaster. Team members must
+defuse any bombs that threaten the
+target area.
+
+Terrorists:
+The terrorist carrying the bomb must
+plant it on or around the toaster.
+
+(Press FIRE to continue)

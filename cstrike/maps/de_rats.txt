@@ -1,0 +1,11 @@
+de_rats - Bomb/Defuse
+based on Chris Spain's map (chris@cyber-rat.com)
+This text file by [SKR8]Gunslinger
+
+Counter-Terrorists:
+Hop into the sink and have someone press that button. Enjoy!
+
+Terrorists:
+Bomb the sink. And don't try to get that cheese you little hungry creeps.
+
+(Press FIRE to continue)

@@ -1,0 +1,21 @@
+cs_gokarts2race
+by TJF (TJF@TJFweb.com)
+textures by Joe Smoe
+
+CS_GoKarts2 RACE Version!
+
+Be the first player to cross the finish line
+and you will win the round for your team!
+
+However, sudden twists and turns will make
+sure that your race is just a little harder,
+and a little more fun!
+
+The race starts as soon as the round begins!
+
+Have FUN!
+
+Visit http://maps.TJFweb.com for more maps!
+
+
+(Press FIRE to continue)

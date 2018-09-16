@@ -1,0 +1,14 @@
+// overview description file for de_cpl_fire.bsp  (overview by [HAU]TOT - tot@counter-strike.de)
+
+global 
+{
+	ZOOM	1.43
+	ORIGIN	616.00   -352.00   -257.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_cpl_fire.tga"
+	HEIGHT	-257.00
+}

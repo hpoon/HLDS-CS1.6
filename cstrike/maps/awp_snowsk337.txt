@@ -1,0 +1,20 @@
+AWP SNOW SK337
+by SuperJer
+SuperJer.com
+
+A new season of L337 SK337, it's winter, dudes!
+
+Important changes:
+ - It's snowy.
+ - Smoother launch for the skeets (most of them).
+ - Safe for skeets to crash through roof glass.
+ - Safe for skeets to land in front cave entrance.
+ - Safer for skeets to land behind building from
+   water launchers.
+ - Garage doors open sooner in the round.
+ - Removed lowering bars from the sniper fort.
+ - Skeets can not be shot before launch.
+ - Added alien-spaceship-type-thing.
+
+
+(Press FIRE to continue)
