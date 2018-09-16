@@ -15,6 +15,7 @@ Custom AMX plugins:
 
 * HPK (High Ping Kicker)
 * Podbot menu
+* Round Money
 
 ## Setup
 
