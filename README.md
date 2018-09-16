@@ -9,13 +9,12 @@ dedicated CS server.
 * Custom maps
 * Metamod (1.21.1-am)
 * AMX Mod X (1.8.2)
+* Podbot (V3B22)
 
 Custom AMX plugins:
 
-* Gore
 * HPK (High Ping Kicker)
-* CS Nade Drops
-* No Nade Through Walls
+* Podbot menu
 
 ## Setup
 
