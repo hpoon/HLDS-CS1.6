@@ -1,0 +1,23 @@
+[en]
+MONEY_AMOUNT = Your money has been set to $%i.
+
+[sv]
+MONEY_AMOUNT = Dina pengar har 'a'ndrats till $%i.
+
+[NL]
+MONEY_AMOUNT = Je hoeveelheid geld is veranderd naar $%i.
+
+[Da]
+MONEY_AMOUNT = Dine penge er blevet sat til $%i.
+
+[hu]
+MONEY_AMOUNT = A penzed atalitva $%i-re.
+
+[bp]
+MONEY_AMOUNT = Seu dinheiro agora eh $%i.
+
+[es]
+MONEY_AMOUNT = Tu dinero ha sido cambiado a $%i.
+
+[de]
+MONEY_AMOUNT = Dein Geld wurde auf $%i festgelegt.
