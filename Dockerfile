@@ -18,9 +18,4 @@ COPY --chown=steam:steam cstrike/models cstrike_downloads/models
 COPY --chown=steam:steam cstrike/sound cstrike_downloads/sound
 COPY --chown=steam:steam cstrike/sprites cstrike_downloads/sprites
 
-#ENTRYPOINT ["/home/steam/hlds/hlds_run -game cstrike +ip 0.0.0.0 +maxplayers $MAXPLAYERS +map $MAPNAME"]
-#ENTRYPOINT ["/home/steam/hlds/hlds_run", \
-#            "-game", "cstrike", \
-#            "+ip", "0.0.0.0", \
-#            "+maxplayers", ${MAXPLAYERS}]
 CMD /home/steam/hlds/hlds_run -game cstrike +ip 0.0.0.0 +maxplayers $MAXPLAYERS +map $MAPNAME
