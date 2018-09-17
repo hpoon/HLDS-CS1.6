@@ -17,6 +17,7 @@ Custom AMX plugins:
 * Podbot menu
 * Round Money
 * Rock the vote
+* Admin all in one
 
 ## Setup
 
