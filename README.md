@@ -22,8 +22,9 @@ Custom AMX plugins:
 ## Setup
 
 1. Install [Docker](https://www.docker.com/)
-2. Run `$ bin/setup`
-3. Now you have to add yourself as an admin. Edit the file
+1. Install [Docker Compose](https://docs.docker.com/compose/install/)
+1. Run `$ bin/setup`
+1. Now you have to add yourself as an admin. Edit the file
    `cstrike/addons/amxmodx/configs/users.ini` and add your credentials. See the
    examples below:
 
@@ -34,7 +35,7 @@ Custom AMX plugins:
    ; "My Name" "my_password" "abcdefghijklmnopqrstu" "a"
    ```
 
-4. **On your client**, edit the file `cstrike/userconfig.cfg` and add your
+1. **On your client**, edit the file `cstrike/userconfig.cfg` and add your
    password there, like the following:
 
    ```
