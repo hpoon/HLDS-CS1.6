@@ -2,3 +2,5 @@
 cstrike/addons/amxmodx/logs/*.log
 cstrike/addons/amxmodx/data/csstats.dat
 cstrike/logs/*.log
+# Use volume binds to add your own users.ini
+cstrike/addons/amxmodx/configs/users.ini
