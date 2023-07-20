@@ -25,9 +25,7 @@ Fill in the path to the users.ini file
 
 ```
   hlds:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: henrypoon/hlds-cs1.6
     volumes:
       - PATH-TO-USERS.INI:/home/steam/hlds/cstrike/addons/amxmodx/configs/users.ini
       - ./cstrike/addons:/home/steam/hlds/cstrike/addons
@@ -134,6 +132,8 @@ Sample users.ini file (replace your steam ID)
    ```
 
 ## Running
+
+This way to run the server is deprecated.  You should just use the compose sample above.
 
 To run the server, you can simply run:
 
