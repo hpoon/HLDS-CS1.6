@@ -25,7 +25,9 @@ Fill in the path to the users.ini file
 
 ```
   hlds:
-    image: henrypoon/hlds-cs1.6
+    build:
+      context: .
+      dockerfile: Dockerfile
     volumes:
       - PATH-TO-USERS.INI:/home/steam/hlds/cstrike/addons/amxmodx/configs/users.ini
       - ./cstrike/addons:/home/steam/hlds/cstrike/addons
