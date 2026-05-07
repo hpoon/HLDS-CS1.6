@@ -1,5 +1,9 @@
 FROM kriansa/cs-16:latest
 
+USER root
+RUN apt-get update && apt-get install -y curl && rm -rf /var/lib/apt/lists/*
+USER steam
+
 # Runtime settings
 ENV MAXPLAYERS="24"
 ENV MAPNAME="de_dust2"
