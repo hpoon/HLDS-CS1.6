@@ -1,7 +1,11 @@
 FROM kriansa/cs-16:latest
 
 USER root
-RUN apt-get update && apt-get install -y curl && rm -rf /var/lib/apt/lists/*
+RUN echo "deb http://archive.debian.org/debian buster main contrib non-free" > /etc/apt/sources.list && \
+    echo "deb http://archive.debian.org/debian-security buster/updates main contrib non-free" >> /etc/apt/sources.list && \
+    apt-get update && \
+    apt-get install -y --allow-unauthenticated curl strace && \
+    rm -rf /var/lib/apt/lists/*
 USER steam
 
 # Runtime settings
