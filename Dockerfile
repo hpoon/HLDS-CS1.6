@@ -6,6 +6,13 @@ RUN echo "deb http://archive.debian.org/debian buster main contrib non-free" > /
     apt-get update && \
     apt-get install -y --allow-unauthenticated curl strace && \
     rm -rf /var/lib/apt/lists/*
+# Run as the host's docker user instead of uid 1000, which is hp on the host, so /hp/hlds can be docker:docker
+# (push_to_docker.sh passes these from /hp/docker/.env)
+ARG DOCKER_UID=1001
+ARG DOCKER_GID=1001
+RUN groupmod -g $DOCKER_GID steam && \
+    usermod -u $DOCKER_UID -g $DOCKER_GID steam && \
+    chown -R steam:steam /home/steam
 USER steam
 
 # Runtime settings
