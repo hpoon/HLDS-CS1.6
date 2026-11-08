@@ -1,18 +1,17 @@
 ; Define the cycle that maps will loop through
 
-fy_pool_day
-aim_ak-colt
 fy_iceworld
-cs_assault
-de_aztec
-aim_map_usp
-de_inferno
-awp_map
-de_dust
-fy_snow
-de_dust2
-aim_map
-cs_deagle5
+aim_ak-colt
 de_rats
-fy_iceworld2k
-awp_india
+fy_pool_day
+awp_map
+de_inferno
+aim_map
+fy_poolparty
+cs_deagle5
+awp_dust
+de_dust2
+fy_buzzkill
+aim_map2
+de_rats3
+csde_school_assault
