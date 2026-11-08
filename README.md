@@ -10,6 +10,7 @@ dedicated CS server.
 * Metamod (1.21.1-am)
 * AMX Mod X (1.8.2)
 * Podbot (V3B22)
+* ReHLDS (replaces the engine, `engine_i486.so`; version pinned in the Dockerfile)
 
 Custom AMX plugins:
 
@@ -192,3 +193,12 @@ Currently, this server is compatible with MacOS and Linux.
 ## License
 
 MIT.
+
+## ReHLDS
+
+The Dockerfile swaps the stock `engine_i486.so` for the one from the ReHLDS release (`REHLDS_VERSION`, checked against
+`REHLDS_SHA256`). The original stays in the image as `/home/steam/hlds/engine_i486.so.orig`. To check which engine is
+running, look for `Exe build:` in the startup log: `Jul 24 2019 (8308)` is stock HLDS, `May 18 2026 (4419)` is ReHLDS
+3.15.0.896.
+
+To roll back, revert the ReHLDS commit, then run `push_to_docker.sh` and restart the container.

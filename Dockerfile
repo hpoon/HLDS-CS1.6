@@ -4,8 +4,19 @@ USER root
 RUN echo "deb http://archive.debian.org/debian buster main contrib non-free" > /etc/apt/sources.list && \
     echo "deb http://archive.debian.org/debian-security buster/updates main contrib non-free" >> /etc/apt/sources.list && \
     apt-get update && \
-    apt-get install -y --allow-unauthenticated curl strace && \
+    apt-get install -y --allow-unauthenticated curl strace unzip && \
     rm -rf /var/lib/apt/lists/*
+# ReHLDS: drop-in replacement for the engine (fewer crashes and exploits, steadier frame times). Only engine_i486.so is
+# replaced; the original is kept as engine_i486.so.orig for a quick rollback (see README)
+ARG REHLDS_VERSION=3.15.0.896
+ARG REHLDS_SHA256=997baeb7ef3842dab3e034d82dc651ebfe560c23b158adce660a6b97976b4e2b
+RUN test -f /home/steam/hlds/engine_i486.so && \
+    curl -fsSL -o /tmp/rehlds.zip https://github.com/rehlds/ReHLDS/releases/download/${REHLDS_VERSION}/rehlds-bin-${REHLDS_VERSION}.zip && \
+    echo "${REHLDS_SHA256}  /tmp/rehlds.zip" | sha256sum -c - && \
+    unzip -j -o /tmp/rehlds.zip bin/linux32/engine_i486.so -d /tmp/rehlds && \
+    cp /home/steam/hlds/engine_i486.so /home/steam/hlds/engine_i486.so.orig && \
+    cp /tmp/rehlds/engine_i486.so /home/steam/hlds/engine_i486.so && \
+    rm -rf /tmp/rehlds /tmp/rehlds.zip
 # Run as the host's docker user instead of uid 1000, which is hp on the host, so /hp/hlds can be docker:docker
 # (push_to_docker.sh passes these from /hp/docker/.env)
 ARG DOCKER_UID=1001
